@@ -15,7 +15,7 @@ const Footer = () => {
             <a href="https://www.linkedin.com/in/ieee-bu-7193b0192/"><img src="/linkedin.svg" alt="linkedin logo" className="w-9 h-9" /></a>
           </button>
           <button>
-            <a href="https://github.com/c-o-d-e-y-o-d-a/triverse-ieee-bu"><img src="/github.svg" alt="" className="w-9 h-9" /></a>
+            <a href="https://github.com/katareayush/IEEE_BU"><img src="/github.svg" alt="" className="w-9 h-9" /></a>
           </button>
         </div>
         {/* Options section */}
